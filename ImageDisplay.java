@@ -241,7 +241,6 @@ private double[] plotHueHistogram(BufferedImage hsvImage, int i) {
     // XYLineAndShapeRenderer renderer = new XYLineAndShapeRenderer(true, false);
     // plot.setRenderer(renderer);
 
-    // // Create a chart frame to display the histogram
     // ChartFrame frame = new ChartFrame("Hue Histogram", chart);
     // frame.pack();
     // frame.setVisible(true);
